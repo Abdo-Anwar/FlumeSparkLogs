@@ -2,7 +2,7 @@
 # 🚀 Big Data Log Processing Pipeline
 
 
-![Project Banner](ReadmeFigures/Mini_BigDataPipeline_simple_compose.png) 
+![Project Banner](ReadmeFigures/Mini_BigDataPipeline_simple_compose2.png) 
 
 
 > A mini Big Data pipeline that demonstrates real-time log generation, ingestion using Apache Flume, storage in HDFS, and data analysis using Apache Spark.
