@@ -1,8 +1,3 @@
-
----
-
-## 📝 نموذج README.md احترافي
-
 ````markdown
 # 🚀 Big Data Log Processing Pipeline
 
