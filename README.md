@@ -2,7 +2,7 @@
 # 🚀 Big Data Log Processing Pipeline
 
 
-![Project Banner](ReadmeFigures/Mini_BigDataPipeline_simple_compose2.png) 
+![Project Banner](ReadmeFigures/Mini_BigDataPipeline_simple_compose.png) 
 
 
 > A mini Big Data pipeline that demonstrates real-time log generation, ingestion using Apache Flume, storage in HDFS, and data analysis using Apache Spark.
@@ -24,7 +24,7 @@ The pipeline consists of:
 
 ## 🔄 System Architecture
 
-![Architecture Diagram](assets/architecture-diagram.png)
+![Architecture Diagram](ReadmeFigures/Mini_BigDataPipeline_simple_compose2.png)
 > *Figure: Overview of the log processing pipeline showing integration of Python, Flume, HDFS, and Spark.*
 
 ---
@@ -47,7 +47,7 @@ logToFlumeHDFS_Spark/
 ├── assets/
 │   ├── banner.png             # Project banner image
 │   ├── architecture-diagram.png # Project pipeline diagram
-│   └── demo.gif               # (Optional) Animated demo of the pipeline
+│   └── demo.gif               
 │
 └── README.md
 
