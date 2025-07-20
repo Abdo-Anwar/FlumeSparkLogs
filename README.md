@@ -1,4 +1,4 @@
-````markdown
+
 # 🚀 Big Data Log Processing Pipeline
 
 ![Project Banner](assets/banner.png) <!-- ضع هنا صورة توضح الـ flow العام للمشروع -->
@@ -48,7 +48,7 @@ logToFlumeHDFS_Spark/
 │   └── demo.gif               # (Optional) Animated demo of the pipeline
 │
 └── README.md
-````
+
 
 ---
 
