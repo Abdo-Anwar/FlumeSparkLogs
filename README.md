@@ -93,7 +93,7 @@ Or use the Jupyter Notebook in `spark_analysis/`.
 
 ## 📊 Sample Output
 
-![Log Analysis Result](assets/sample-output.png)
+![Log Analysis Result](ReadmeFigures/sample-output.png)
 
 > *Figure: Sample result showing log counts by level using PySpark.*
 
@@ -143,3 +143,10 @@ For questions, feedback, or collaboration, feel free to reach out:
 - **LinkedIn**: [abdelrhman-anwar](https://www.linkedin.com/in/abdelrhman-anwar)
 
 
+---
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+Feel free to use, modify, and distribute it for both personal and commercial purposes.

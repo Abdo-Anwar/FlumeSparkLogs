@@ -1,0 +1,7 @@
+How to Run:
+
+Save this as log_analysis.py
+
+open terminal:
+
+spark-submit log_analysis.py
