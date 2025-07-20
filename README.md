@@ -52,7 +52,7 @@ logToFlumeHDFS_Spark/
 └── README.md
 
 
----
+
 
 ## 🔧 Setup Instructions
 
@@ -136,9 +136,13 @@ Special thanks to the instructors and course team.
 ## 📬 Contact
 
 **Abdelrahman Anwar**
-[LinkedIn](https://www.linkedin.com/in/abdelrhman-anwar)
-📧 [abdelrhman.email@example.com](mailto:abdelrhman.email@example.com)
+For questions, feedback, or collaboration, feel free to reach out:
+
+- **Emial**: [abd.ahm.anwar@gamil.com](mailto:abd.ahm.anwar@gamil.com)
+- **GitHub**: [Abdo-Anwar](https://github.com/Abdo-Anwar)
+- **LinkedIn**: [abdelrhman-anwar](https://www.linkedin.com/in/abdelrhman-anwar)
+
 
 ```
 
----
+
