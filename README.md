@@ -35,7 +35,7 @@ The pipeline consists of:
 logToFlumeHDFS_Spark/
 │
 ├── log_generator/
-│   └── generate_logs.py       # Python script to generate log data
+│   └── logGen.py       # Python script to generate log data
 │
 ├── flume_config/
 │   └── exercise5.conf         # Apache Flume configuration file
@@ -44,9 +44,9 @@ logToFlumeHDFS_Spark/
 │   ├── analysis.ipynb         # Jupyter Notebook for log analysis
 │   └── analysis.py            # PySpark script (optional CLI version)
 │
-├── assets/
+├── ReadmeFigures/
 │   ├── banner.png             # Project banner image
-│   ├── architecture-diagram.png # Project pipeline diagram
+│   ├── Mini_BigDataPipeline_simple_compose.png # Project pipeline diagram
 │   └── demo.gif               
 │
 └── README.md
