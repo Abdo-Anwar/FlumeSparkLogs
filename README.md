@@ -101,7 +101,7 @@ Or use the Jupyter Notebook in `spark_analysis/`.
 
 ## 🎥 Demo
 
-![Pipeline Demo](assets/demo.gif)
+![Pipeline Demo](ReadmeFigures/demo.gif)
 
 > *Figure: Animated demo showing real-time log generation and analysis.*
 
